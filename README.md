@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of ziiven/flarum-post-number.** Not for installation: use [Packagist](https://packagist.org/packages/ziiven/flarum-post-number) or the [upstream repository](https://github.com/Ziiven/flarum-post-number).
 
-**0** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/ziiven-flarum-post-number/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.0`
+**5** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/ziiven-flarum-post-number/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2022-10-03 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-flarum-post-number/tree/archive/v0.1.0) |
+| `v0.1.1` | 2022-10-03 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-flarum-post-number/tree/archive/v0.1.1) |
+| `v0.1.2` | 2022-10-03 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-flarum-post-number/tree/archive/v0.1.2) |
+| `v0.1.3` | 2022-10-06 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-flarum-post-number/tree/archive/v0.1.3) |
+| `v0.1.4` | 2023-12-16 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-flarum-post-number/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/ziiven-flarum-post-number.json](https://github.com/flarchive/archive-index/blob/main/packages/ziiven-flarum-post-number.json)
 
